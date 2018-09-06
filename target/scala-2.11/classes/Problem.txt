@@ -1,0 +1,5 @@
+1.What kind of problems are prevalent, and in which state?
+2.What kind of problems are prevalent, and in which city?
+3.title coloumn collect- type of event?.
+4.which event has max occurence?
+5.whatever is crime analysis should be done here also.
